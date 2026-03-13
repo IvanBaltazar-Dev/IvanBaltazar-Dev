@@ -54,6 +54,23 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanBaltazar-Dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBaltazar-Dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IvanBaltazar-Dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## ✨ Programming Practices
 
 🧼 Clean Code • 🧩 Object Oriented Programming • 🧪 Testing • 📐 Software Design • 🚀 Problem Solving
